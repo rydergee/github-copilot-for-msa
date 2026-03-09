@@ -18,7 +18,7 @@ This step is primarily a **facilitator-led presentation** covering:
 **Key topics covered in presentation:**
 
 - Goals of the workshop and what you'll learn
-- The increasing complexity of Software Development
+- The increasing complexity of Software Developmenddt
 - Introduction to Agentic DevOps
 - What we are going to build together
 - What is GitHub Copilot & GitHub Copilot Chat and how does it work?
